@@ -1,6 +1,0 @@
-name: mBlocker
-description: Plugin to block potentially dangerous commands.
-version: '1.0'
-main: me.meiallu.mblocker.MBlocker
-depend: [ ProtocolLib ]
-author: Meiallu
