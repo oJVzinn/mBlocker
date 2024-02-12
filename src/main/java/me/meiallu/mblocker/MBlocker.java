@@ -53,7 +53,7 @@ public final class MBlocker extends JavaPlugin implements Listener {
         });
     }
 
-    public String paintMsg(String msg) { return ChatColor.translateAlternateColorCodes('&', msg); }
+    public String printMsg(String msg) { return ChatColor.translateAlternateColorCodes('&', msg); }
 
     @EventHandler
     public void onCommand(PlayerCommandPreprocessEvent e) {
